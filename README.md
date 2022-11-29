@@ -1,4 +1,3 @@
-# bus-update
 # ***My Bus crowding Map in Boston***
 
 ### |Description|
