@@ -1,4 +1,4 @@
-# ***My Bus crowding Map in Boston***
+# ***My Bus Crowding Map in Boston***
 
 ### |Description|
 
@@ -6,7 +6,7 @@ This page displays the crowding level of route 1 buses in the Boston area.
 
 ### |Using This Tool|
 
-Simly load the page and view real-time bus crowding data of Bostons route 1 buses
+Simly load the page and view real-time bus crowding data
 
 ### |Support|
 
